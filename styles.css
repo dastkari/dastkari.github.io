@@ -2,17 +2,18 @@ body {
     background-color: rgb(238,233,230)
   }
   h1 {
-    color: rgb(138, 109, 67); font-family:consolas; text-align: center;
+    color: rgb(74, 102, 0); font-family:arial; text-align: center;
   }
   p {
     color: rgb(127, 107, 96); font-family:arial; font-size: larger; letter-spacing: 0.05em;
   }
   h3 {
-    color: rgb(138, 109, 67); bottom:0; font-family:consolas; width: 100%; text-align: center;
+    color: rgb(138, 109, 67); bottom:0; width: 100%; text-align: center;
   }
   a {
     color: rgb(217, 100, 100);
     text-decoration: none;
+    font-family: 'arial';
   }
   a:hover {
     text-decoration: underline;
